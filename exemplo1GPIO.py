@@ -1,3 +1,11 @@
+#Electronic assembly using TK board and UNIT 42 board
+#	TK GND --- A
+#	A --- 1 
+#	TK 16 --- 12
+#           11 --- 2
+
+
+
 import ASUS.GPIO as GPIO
 import time
 GPIO.setmode(GPIO.BOARD)
