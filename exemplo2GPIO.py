@@ -1,3 +1,15 @@
+#Electronic assembly using TK board and UNIT 42 board
+#	TK GND --- A
+#	A --- 1 
+#	A --- 3
+#	A --- 5
+#	TK 11 --- 16
+#           TK 12 --- 14
+#	TK 13 --- 12
+#	15 --- 6
+#	13 --- 4
+#           11 --- 2
+
 import ASUS.GPIO as GPIO
 import time
 verde=11
