@@ -1,3 +1,9 @@
+#Electronic assembly using TK board and UNIT 42 board
+#       TK GND --- A
+#	      A --- 1 
+#	      TK pin --- 12
+#       11 --- 2
+
 import RPi.GPIO as GPIO
 from time import sleep
 
@@ -5,10 +11,6 @@ pin=input("Enter Pin:")
 
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(pin, GPIO.OUT)
-
-
-
-
                 
 pwm = GPIO.PWM(pin, 100)    # Created a PWM object
 pwm.start(0)                    # Started PWM at 0% duty cycle
