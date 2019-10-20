@@ -1,6 +1,4 @@
-#
-#
-
+#Change the color of the RGB in ur board
 
 import ASUS.GPIO as GPIO
 import time
