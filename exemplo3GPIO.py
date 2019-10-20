@@ -1,7 +1,7 @@
 #Electronic assembly using TK board and UNIT 42 board
 #       TK GND --- A
-#	   A --- 1 
-#	   TK pin --- 12
+#	 A --- 1 
+#	 TK pin --- 12
 #       11 --- 2
 
 import RPi.GPIO as GPIO
