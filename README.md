@@ -17,7 +17,7 @@
 
 ![ApresentaçãoUnidade42 pptx (7)](https://user-images.githubusercontent.com/56412939/67164584-95f15600-f352-11e9-8b5e-ebf1e1403ef1.jpg)
 
-![ApresentaçãoUnidade42 pptx (8)](https://user-images.githubusercontent.com/56412939/67164587-9f7abe00-f352-11e9-8141-54cb0abe1c8a.jpg)
+![EN-ApresentaçãoUnidade42 (1)](https://user-images.githubusercontent.com/56412939/67203264-0d6dc680-f3e1-11e9-8d19-ea2ef3c0c4fc.jpg)
 
 ![ApresentaçãoUnidade42 pptx (9)](https://user-images.githubusercontent.com/56412939/67164598-a0abeb00-f352-11e9-9f47-d5c15a785c21.jpg)
 
