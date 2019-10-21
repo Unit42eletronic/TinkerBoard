@@ -21,11 +21,11 @@
 
 ![ApresentaçãoUnidade42 pptx (9)](https://user-images.githubusercontent.com/56412939/67164598-a0abeb00-f352-11e9-9f47-d5c15a785c21.jpg)
 
-![ApresentaçãoUnidade42 pptx (10)](https://user-images.githubusercontent.com/56412939/67164597-a0abeb00-f352-11e9-880c-6efd57c279a6.jpg)
+![EN-ApresentaçãoUnidade42 (2)](https://user-images.githubusercontent.com/56412939/67203490-997fee00-f3e1-11e9-8a45-a52b5e76f342.jpg)
 
-![ApresentaçãoUnidade42 pptx (11)](https://user-images.githubusercontent.com/56412939/67164596-a0abeb00-f352-11e9-8ba0-df65ed9be1bf.jpg)
+![EN-ApresentaçãoUnidade42 (3)](https://user-images.githubusercontent.com/56412939/67203491-9ab11b00-f3e1-11e9-8a1d-b74bbbe19453.jpg)
 
-![ApresentaçãoUnidade42 pptx (12)](https://user-images.githubusercontent.com/56412939/67164593-a0135480-f352-11e9-97dc-f601a2426b4c.jpg)
+![EN-ApresentaçãoUnidade42 (4)](https://user-images.githubusercontent.com/56412939/67203493-9be24800-f3e1-11e9-8a6c-f4446ccef862.jpg)
 
 ![ApresentaçãoUnidade42 pptx (13)](https://user-images.githubusercontent.com/56412939/67164592-a0135480-f352-11e9-8bc2-14b7dcae0409.jpg)
 
