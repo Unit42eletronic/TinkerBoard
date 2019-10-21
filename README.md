@@ -13,7 +13,7 @@
 
 ![ApresentaçãoUnidade42 pptx (5)](https://user-images.githubusercontent.com/56412939/67164574-7bb77800-f352-11e9-9536-6135bac7157b.jpg)
 
-![ApresentaçãoUnidade42 pptx (6)](https://user-images.githubusercontent.com/56412939/67164575-81ad5900-f352-11e9-9df7-c3b127aa3bac.jpg)
+![EN-ApresentaçãoUnidade42](https://user-images.githubusercontent.com/56412939/67203106-aa7c2f80-f3e0-11e9-9599-d4fbe746d151.jpg)
 
 ![ApresentaçãoUnidade42 pptx (7)](https://user-images.githubusercontent.com/56412939/67164584-95f15600-f352-11e9-8b5e-ebf1e1403ef1.jpg)
 
